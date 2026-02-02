@@ -15,5 +15,5 @@ Focused on building intelligent systems, automations, and applied AI solutions.
 - Real-world engineering + AI solutions
 
 ## 📫 Contact
-- LinkedIn: link
-- Email: email
+- LinkedIn: https://www.linkedin.com/in/felipe-milak-b54a72226/
+- Email: felipemilak@gmail.com
