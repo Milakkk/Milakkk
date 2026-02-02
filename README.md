@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Felipe Milak 👋
 
-<!--
-**Milakkk/Milakkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Automation Engineer with a background in Electrical Engineering.
+Focused on building intelligent systems, automations, and applied AI solutions.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python, JavaScript
+- Machine Learning, LLMs
+- RPA, Automation
+- SQL, APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+- AI-powered automations
+- Intelligent agents
+- Real-world engineering + AI solutions
+
+## 📫 Contact
+- LinkedIn: link
+- Email: email
